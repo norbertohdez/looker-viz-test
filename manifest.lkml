@@ -1,17 +1,17 @@
 project_name: "viz-test_uservoice-marketplace"
 
 constant: VIS_LABEL {
-  value: "Test UserVoice"
+  value: "Hello World Nor"
   export: override_optional
 }
 
 constant: VIS_ID {
-  value: "test_uservoice-marketplace"
+  value: "hello_world_nor"
   export:  override_optional
 }
 
 visualization: {
   id: "@{VIS_ID}"
-  url: "https://github.com/nugroha/test_uservoice/blob/master/test_uservoice.js"
+  url: "https://github.com/norbertohdez/looker-viz-test/edit/master/hello_world_nor.js"
   label: "@{VIS_LABEL}"
 }
