@@ -1,8 +1,8 @@
 {
-  "label": "Test UserVoice",
+  "label": "Hello World Nor",
   "category_label": "Plug-ins",
   "branding": {
-    "tagline": "To test UserVoice in Looker"
+    "tagline": "Testing Looker Custom Viz"
   },
 
     "constants": {
