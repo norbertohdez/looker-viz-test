@@ -13,5 +13,6 @@ constant: VIS_ID {
 visualization: {
   id: "@{VIS_ID}"
   url: "https://github.com/norbertohdez/looker-viz-test/edit/master/hello_world_nor.js"
+  file: "hello_world_nor.js"
   label: "@{VIS_LABEL}"
 }
