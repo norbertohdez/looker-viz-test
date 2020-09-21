@@ -12,6 +12,7 @@ constant: VIS_ID {
 
 visualization: {
   id: "@{VIS_ID}"
+  url: "https://github.com/norbertohdez/looker-viz-test/cartoon.js"
   label: "@{VIS_LABEL}"
   dependencies: []
 }
