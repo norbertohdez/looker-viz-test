@@ -12,7 +12,7 @@ constant: VIS_ID {
 
 visualization: {
   id: "@{VIS_ID}"
-  url: "https://github.com/norbertohdez/looker-viz-test/cartoon.js"
+  url: "https://raw.githubusercontent.com/norbertohdez/looker-viz-test/master/cartoon.js "
   label: "@{VIS_LABEL}"
   dependencies: []
 }
